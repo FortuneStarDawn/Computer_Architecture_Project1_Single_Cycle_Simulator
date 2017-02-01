@@ -1,0 +1,2 @@
+# Computer_Architecture_Project1_Single_Cycle_Simulator
+Computer_Architecture_Project1_Single_Cycle_Simulator
